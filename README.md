@@ -18,10 +18,10 @@
 
 ### Assignment problem statements
 #### Must have requirements
-- [ ] Step 1: Create a `Dockerfile` to create a container image for the program in the repo
-- [ ] Step 2: Test the `Dockerfile` by building the image 
-- [ ] Step 3: Run the image as a container. It should print the string `"Hello, World!"`
-- [ ] Step 4: Commit and Push the updated code into your GitHub repo
+- [X] Step 1: Create a `Dockerfile` to create a container image for the program in the repo
+- [X] Step 2: Test the `Dockerfile` by building the image 
+- [X] Step 3: Run the image as a container. It should print the string `"Hello, World!"`
+- [X] Step 4: Commit and Push the updated code into your GitHub repo
 #### Good to have requirement (not a must)
 - [ ] Step 5: If you're able to create a `GitHub Action` workflow for the above automation, then you have an added advantage for the submission.
 
