@@ -23,7 +23,7 @@
 - [X] Step 3: Run the image as a container. It should print the string `"Hello, World!"`
 - [X] Step 4: Commit and Push the updated code into your GitHub repo
 #### Good to have requirement (not a must)
-- [ ] Step 5: If you're able to create a `GitHub Action` workflow for the above automation, then you have an added advantage for the submission.
+- [X] Step 5: If you're able to create a `GitHub Action` workflow for the above automation, then you have an added advantage for the submission.
 
 ### How to submit
 - Capture the output of **Steps 2,3 and 4 (also 5 if you've done it)** in _Google Document_
